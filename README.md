@@ -19,3 +19,5 @@ trees in a pretty way.
 
 * [binary_trees.h](./binary_trees.h): Header file containing definitions and
 prototypes for all types and functions written for the project.
+
+- void binary_tree_print(const binary_tree_t *);
